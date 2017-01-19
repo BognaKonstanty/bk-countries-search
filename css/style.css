@@ -1,0 +1,25 @@
+td, th {
+	margin: 30px;
+	border: 1px solid black;
+	padding: 20px;
+} 
+
+.table-container,
+.table,
+{
+	margin:auto;
+}
+
+
+ul {
+	float: left;
+	list-style: none;
+	padding-left: 10px;
+	margin-top: 10px;
+}
+
+li {
+	list-style: none;
+}
+
+
